@@ -68,7 +68,7 @@ jobs:
              mkdir grades
              mv Q*res.txt Q*res_.txt grades
              
-             python .github/coding_grades_total.py 2>&1 | tee ScoresCodingTotal.txt
+             python //coding_grader/coding_grades_total.py 2>&1 | tee ScoresCodingTotal.txt
              # clean temporary files
              rm -rf grades
              rm -rf ST_*
