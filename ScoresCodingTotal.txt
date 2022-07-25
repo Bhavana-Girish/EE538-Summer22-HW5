@@ -1,2 +1,8 @@
-python: can't open file '//coding_grader/coding_grades_total.py': [Errno 2] No such file or directory
-Sun Jul 24 23:08:51 PDT 2022
+Q1: 0 / 14 passed | score: 0
+Q2: 0 / 1 passed | score: 0
+Q3: 0 / 7 passed | score: 0
+Q4: 0 / 17 passed | score: 0.0
+-----------------------------------------
+Your total score of coding section: 0.0
+-----------------------------------------
+Sun Jul 24 23:27:38 PDT 2022
