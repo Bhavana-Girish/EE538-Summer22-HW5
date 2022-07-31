@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 #include <unordered_set>
+#include <algorithm>
 
 // Implementing a simple password cracker!
 //-----------------------------------------------------------------------------
